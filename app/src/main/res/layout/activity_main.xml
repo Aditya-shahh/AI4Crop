@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rellay">
+
+    <TextView
+        android:id="@+id/addImageTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:fontFamily="monospace"
+        android:onClick="AddPlantImage"
+        android:textStyle="bold"
+        android:text="Upload Plant/Leaf Image"
+        android:textColor="@color/colorPrimary"
+        android:textSize="24sp" />
+    <!--<ImageView-->
+    <!--android:id="@+id/imageViewPlant"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@id/addImageTextView"/>-->
+</RelativeLayout>
