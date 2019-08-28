@@ -1,5 +1,5 @@
 # AI4Kisaan
-### Crop disease detection and remedy suggestion using Deep learning and Android
+### Crop disease detection and remedy suggestion using Deep learning 
 
 #### Description: 
 The application aims to detects the plant disease from the snapshot of the plant leaf. The farmer has to just capture the plant leaf image from our app on his mobile. The app will send this image to our AI system. The AI system will then accurately detect the disease if any, present on the plant and report it to the farmer.
