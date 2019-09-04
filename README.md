@@ -1,4 +1,4 @@
-# AI4Kisaan
+# AI4Crop
 ### Crop disease detection and remedy suggestion using Deep learning 
 
 #### Description: 
